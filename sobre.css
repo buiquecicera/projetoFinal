@@ -1,0 +1,78 @@
+#header{
+    background-color: rgb(162, 104, 216);
+    color: blanchedalmond;
+    width: 98vw;
+   
+}
+body{
+    background-color: purple;
+    color: bisque;
+  }
+     
+  li{
+
+    display: inline;
+    text-decoration: none;  
+ 
+
+  }
+  
+
+  li a {
+    color: purple;
+    padding: 14px 16px;
+   
+    text-decoration: none;
+    
+  }
+
+  a{
+    margin-left: 50px;
+  }
+  
+  a:hover {
+    color: violet;
+    
+  }
+  #menu {
+    font-size: 25px;
+    margin-top: -2px;
+    height: 30px;
+    width:97vw;
+    text-align: center;
+    list-style: none;
+    background-color: wheat;
+    padding: 10px;
+
+    
+  }
+  footer{
+    margin-top: 500px ;
+    background-color: blueviolet;
+
+  }
+  #massa{
+    width: 150px;
+    height: 130px;
+  }
+
+
+  #posicionamentoh12{
+    position: absolute ;
+    bottom: -78vh;
+    left: 31vw;
+  }
+  
+  img{
+    width: 150px; ;
+    height: 150px; ;
+  }
+  #posicionamentoh12{
+    position: absolute;
+    bottom: -900px;
+    left: 31vw;
+}
+#valor{
+  width: 150px;
+  height: 150px;
+}

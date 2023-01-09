@@ -1,0 +1,83 @@
+#sim{
+    width: 150px; ;
+    height: 130px; ;
+    
+}
+#header{
+    background-color: rgb(162, 104, 216);
+    color: blanchedalmond;
+    width: 98vw;
+}
+
+#posicionamentoH1{
+    position: absolute;
+    top: 5px;
+    left: 30vw;
+}
+  li{
+
+    display: inline;
+    text-decoration: none;  
+ 
+
+  }
+  
+
+  li a {
+    color: purple;
+    padding: 14px 16px;
+   
+    text-decoration: none;
+    
+  }
+
+  a{
+    margin-left: 50px;
+  }
+  
+  a:hover {
+    color: violet;
+    
+  }
+
+
+  footer{
+    margin-top: 75px ;
+    background-color: blueviolet;
+
+  }
+
+  #massa{
+    width: 150px;
+    height: 130px;
+  }
+
+
+  #posicionamentoh12{
+    position: absolute ;
+    bottom: -32vh;
+    left: 31vw;
+  }
+
+  body{
+    background-color: purple;
+    color: bisque;
+  }
+  #pedras{
+    width: 205px ;
+    height: 205px;
+    margin-left: 835px;
+  }
+
+  #menu {
+    font-size: 25px;
+    margin-top: -2px;
+    height: 30px;
+    width:97vw;
+    text-align: center;
+    list-style: none;
+    background-color: wheat;
+    padding: 10px;
+
+    
+  }

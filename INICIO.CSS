@@ -1,0 +1,69 @@
+#sim{
+    width: 150px; ;
+    height: 130px; ;
+    
+}
+header{
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+
+#posicionamentoh12{
+    position: absolute ;
+    bottom: -25vh;
+    left: 31vw;
+  }
+
+body{
+    background-color: plum;
+    color: bisque;
+}
+footer{
+    margin-top: 250px ;
+    background-color: blueviolet;
+    }
+    
+  li{
+
+    display: inline;
+    text-decoration: none;  
+ 
+
+  }
+  
+
+  li a {
+    color: purple;
+    padding: 14px 16px;
+   
+    text-decoration: none;
+    
+  }
+
+  a{
+    margin-left: 50px;
+  }
+  
+  a:hover {
+    color: violet;
+    
+  }
+  #menu {
+    font-size: 25px;
+    margin-top: -2px;
+    height: 30px;
+    width:97vw;
+    text-align: center;
+    list-style: none;
+    background-color: wheat;
+    padding: 10px;
+
+    
+  }
+
+  
+#posicionamentoH1{
+    position: absolute;
+    top: 5px;
+    left: 31vw;
+}
